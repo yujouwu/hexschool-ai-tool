@@ -642,7 +642,7 @@ body {
     max-width: calc(50% - 12px);
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .tool .tool-card li {
     max-width: 100%;
   }
